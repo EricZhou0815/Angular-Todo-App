@@ -4,7 +4,7 @@ A simple front-end Application written with Angular, connecting to a fake api ([
 
 ## Tech Stacks
 
-- Angualr
+- Angular
 
 ## How to use
 
