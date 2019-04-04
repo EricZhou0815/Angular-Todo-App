@@ -26,6 +26,6 @@ npm install
 ng serve
 ```
 
-## UI Design
+## App Screenshot
 
 ![UI Screenshot](/doc/angulartodo.png)
