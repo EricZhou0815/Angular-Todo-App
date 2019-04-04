@@ -28,4 +28,4 @@ ng serve
 
 ## UI Design
 
-[UI Screenshot](/doc/angulartodo.png)
+![UI Screenshot](/doc/angulartodo.png)
