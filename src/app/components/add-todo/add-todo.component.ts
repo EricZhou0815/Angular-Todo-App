@@ -15,10 +15,10 @@ export class AddTodoComponent implements OnInit {
   }
 
   onSubmit() {
-    const todo= {
+    const todo = {
       title: this.title,
       completed: false
-    }
+    };
 
     this.addTodo.emit(todo);
   }

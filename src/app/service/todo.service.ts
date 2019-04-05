@@ -8,14 +8,14 @@ const httpOptions = {
   headers: new HttpHeaders({
     'Content-Type': 'application/json'
   })
-}
+};
 
 @Injectable({
   providedIn: 'root'
 })
 export class TodoService {
-  todosUrl: string = 'https://jsonplaceholder.typicode.com/todos';
-  todosLimit: string = '?_limit=10';
+  todosUrl = 'https://jsonplaceholder.typicode.com/todos';
+  todosLimit = '?_limit=10';
 
   constructor(private http: HttpClient) { }
 
