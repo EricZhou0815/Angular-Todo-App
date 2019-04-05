@@ -1,5 +1,7 @@
 # Angular-Todo-App
 
+[![Build Status](https://travis-ci.org/EricZhou0815/Angular-Todo-App.svg?branch=master)](https://travis-ci.org/EricZhou0815/Angular-Todo-App)
+
 A simple front-end Application written with Angular, connecting to a fake api ([JSONPlaceholder](https://jsonplaceholder.typicode.com/)). It allows user to create a todo item, change the status of a todo item, and delete a todo item.
 
 Automated deployed by Travis-CI
