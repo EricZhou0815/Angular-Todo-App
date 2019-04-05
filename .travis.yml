@@ -15,3 +15,12 @@ script:
 - ng lint
 - ng e2e
 - ng build --prod --base-href https://ericzhou0815.github.io/Angular-Todo-App/
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: 6bc699048f82e271eac4613865888b6b1496e1d0
+  local_dir: dist/angular-todo-app
+  on:
+    branch: master
+
