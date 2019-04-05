@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+  - "g"
+dist: trusty
+sudo: required
+
+branches:
+  only:
+  - master
+
+before_script:
+  - npm install -g @angualr/cli
+
+script:
+- ng lint
+- ng test
+- ng build --prod --base-href https://ericzhou0815.github.io/Angular-Todo-App/
