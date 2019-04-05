@@ -18,7 +18,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: 6bc699048f82e271eac4613865888b6b1496e1d0
+  github_token: $github_token
   local_dir: dist/angular-todo-app
   on:
     branch: master
