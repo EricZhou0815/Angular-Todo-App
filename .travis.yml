@@ -9,9 +9,9 @@ branches:
   - master
 
 before_script:
-  - npm install -g @angualr/cli
+  - npm install -g @angular/cli
 
 script:
 - ng lint
-- ng test
+- ng e2e
 - ng build --prod --base-href https://ericzhou0815.github.io/Angular-Todo-App/
