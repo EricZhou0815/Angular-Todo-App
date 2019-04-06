@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/EricZhou0815/Angular-Todo-App.svg?branch=master)](https://travis-ci.org/EricZhou0815/Angular-Todo-App)
 [![Coverage Status](https://coveralls.io/repos/github/EricZhou0815/Angular-Todo-App/badge.svg?branch=master)](https://coveralls.io/github/EricZhou0815/Angular-Todo-App?branch=master)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/EricZhou0815/Angular-Todo-App.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/EricZhou0815/Angular-Todo-App/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/EricZhou0815/Angular-Todo-App.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/EricZhou0815/Angular-Todo-App/context:javascript)
 
 A simple front-end Application written with Angular, connecting to a fake api ([JSONPlaceholder](https://jsonplaceholder.typicode.com/)). It allows user to create a todo item, change the status of a todo item, and delete a todo item.
 
