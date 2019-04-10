@@ -1,4 +1,4 @@
-# Angular-Todo-App
+# Simple Todo
 
 [![Build Status](https://travis-ci.org/EricZhou0815/Angular-Todo-App.svg?branch=master)](https://travis-ci.org/EricZhou0815/Angular-Todo-App)
 [![Coverage Status](https://coveralls.io/repos/github/EricZhou0815/Angular-Todo-App/badge.svg?branch=master)](https://coveralls.io/github/EricZhou0815/Angular-Todo-App?branch=master)
